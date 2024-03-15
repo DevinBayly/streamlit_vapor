@@ -45,4 +45,4 @@ st.title("Vapor in Streamlit")
 st.markdown("""## Description
 This App is meant to attempt to demonstrate how all the powers of Vapor+Python are now expanded by leveraging streamlit existing UI elements, and the option to further extend with custom components (Anything HTML+JS).
 """)
-st.image("test.png")
+st.image(im)
